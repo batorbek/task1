@@ -2,5 +2,11 @@ name = "Bator"
 print( name, (type(name)))
 age = 40
 print(age, type (age))
-age = 15
+age = age+15
 print(age, type (age))
+age = age+17
+print(age, type (age))
+agenew = age+28
+print(agenew, type (agenew))
+is_student = 5!=10
+print(is_student, type (is_student))
