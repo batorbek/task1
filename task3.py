@@ -1,0 +1,5 @@
+print(type(5**2))
+print(5>10)
+print(5<10)
+print(type(list[1,2,3]))
+print('hello '+'world')
